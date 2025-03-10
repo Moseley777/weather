@@ -1,5 +1,5 @@
 # weather
-Weather App with Flutter that gets real time data from the currentvweather data in the openwearhermap api.
+Weather App with Flutter that gets real time data from the current weather data in the openweathermap api.
 
 
 ![3d96158e-9342-480a-94e1-54d8837b873b](https://github.com/Moseley777/weather/assets/125909087/bc179d81-584d-4686-a5f6-d17de7ba668a)
